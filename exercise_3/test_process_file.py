@@ -56,6 +56,3 @@ def test_process_file(in_out):
 
 
 test_process_file(in_out_ok)
-
-
-print(True)
