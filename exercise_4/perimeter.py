@@ -1,6 +1,7 @@
 import numpy as np
 
 
+# Step 1
 def perimeter(points):
     if len(points) < 3:
         return 0
